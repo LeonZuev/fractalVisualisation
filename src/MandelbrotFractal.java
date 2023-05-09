@@ -8,10 +8,12 @@ import java.awt.image.BufferedImage;
 
 public class MandelbrotFractal extends JFrame {
 
+
   private static final int WIDTH = 800;
   private static final int HEIGHT = 800;
   private static final int MAX_ITER = 1000;
   private static final double ZOOM = 150;
+
 
   private BufferedImage buffer;
 
