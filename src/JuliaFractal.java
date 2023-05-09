@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 
+
 public class JuliaFractal extends JFrame {
 
   private static final int WIDTH = 900;
