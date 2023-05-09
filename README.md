@@ -1,2 +1,1 @@
 # fractalVisualisation
-MANDELBROT; JULI etc
