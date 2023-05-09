@@ -1,2 +1,3 @@
 # fractalVisualisation
-MANDELBROT; JULI etc
+MANDELBROT; JULI et
+hrllo

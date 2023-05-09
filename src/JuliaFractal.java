@@ -21,8 +21,8 @@ public class JuliaFractal extends JFrame {
   }
 
   public void generateFractal() {
-    double cx = -0.7;
-    double cy = 0.27015;
+    double cx = 10;
+    double cy = 8;
 
     for (int y = 0; y < getHeight(); y++) {
       for (int x = 0; x < getWidth(); x++) {
