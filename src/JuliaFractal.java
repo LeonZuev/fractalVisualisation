@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
+//hi Leon! :)
 
 public class JuliaFractal extends JFrame {
 
